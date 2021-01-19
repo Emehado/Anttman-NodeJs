@@ -1,0 +1,6 @@
+.idea
+coverage
+node_modules
+*.log
+config/custom-environment-variables.json
+config/production.json

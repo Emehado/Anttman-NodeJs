@@ -1,0 +1,4 @@
+{
+  "jwt_secret": "jwt_secret",
+  "DB_URI": "mongodb://localhost/vidre_test"
+}
